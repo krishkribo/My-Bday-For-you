@@ -2,7 +2,7 @@
 
 
 for windows
-#First install Python 3.5 software
+#First install Python 3.5  software
 --the link https://www.python.org/downloads/
 for linux
 sudo apt-get install idle3
