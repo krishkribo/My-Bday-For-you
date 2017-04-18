@@ -14,5 +14,5 @@ by pip upgarde pip
    pip install turtle
    pip install pygame
 
-#Then run MyBdaywish.py file in python 3.5 
+#Then run Hbday.py file in python 3.5 
    
